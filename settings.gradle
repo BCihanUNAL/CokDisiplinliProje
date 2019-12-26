@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Cok Disiplinli Tasarim Projesi Arayuz'
